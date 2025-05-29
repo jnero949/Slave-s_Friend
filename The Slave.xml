@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>The Slave's Friend No.I</head>
+            <pb n="2"/>
+            <div type="play" xml:id="Selling_Slaves_By_The_Pound">
+               <head rend="caps">Selling Slaves By the Pound</head>
+               <sp>
+                  <speaker rend="italics">Charles.</speaker>
+                  <p>Did you ever know, Papa, that slaves were sold by the pound before Mr. Birney
+                     wrote that letter?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Papa.</speaker>
+                  <p>Certainly I did. Did you never hear that before?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Charles.</speaker>
+                  <p> What, sell boys and girls, like Julia and me, as they do pigs and fish! Is it
+                     so, father? Tell us.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Papa.</speaker>
+                  <p>It is indeed true, my son. If you will look into Mr. Bourne's book, <hi
+                        rend="caps">Picture of Slavery, </hi> you will see some slaves weighing a
+                     little girl in a pair of scales.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Charles.</speaker>
+                  <p>How much will she weigh?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Papa.</speaker>
+                  <p>I suppose about fifty pounds.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Charles.</speaker>
+                  <p>How much do they get a pound for the poor slaves?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Papa.</speaker>
+                  <p>Four dollars, and sometimes five: If that little girl weighted fifty pounds,
+                     and her master got four dollars a pound for her, she was sold for two hundred
+                     dollars.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Charles.</speaker>
+                  <p>Ah! That's the reason they dont want to emancipate the slaves; they get so much
+                     money by selling them: Isn't it so, farther?</p>
+               </sp>
+            </div>
+            <div type="poem" xml:id="The_Thankful_Child">
+               <head>The Thankful Child</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="abab">
+                     <l>I thank the goodness and the grace</l>
+                     <l>Which on my birth have smiled,</l>
+                     <l>And made me in my early days</l>
+                     <l>A happy free-born child.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="cdcd">
+                     <l>I was not born a little slave</l>
+                     <l>To labor in the sun,</l>
+                     <l>And wish that I were in the grave,</l>
+                     <l>And all my labor done.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="efef">
+                     <l>My God I thank thee who hast planned</l>
+                     <l>A better lot for me,</l>
+                     <l>And placed me in this happy land,</l>
+                     <l>Where I may hear of Thee</l>
+                  </lg>
+               </lg>
+            </div>
+         </div>
+         <div>
+            <head>A Slave's Friend No. 2</head>
+            <div type="play" xml:id="The_Apple_and_The_Chestnut">
+               <head rend="caps">The Apple and the Chestnut</head>
+               <stage>A white man, whose name was Lorenzo, once teased a poor colored man, whose
+                  name was Mungo.</stage>
+               <sp>
+                  <speaker rend="italics">Lorenzo.</speaker>
+                  <p>Here, Mungo, said he, look at this apple, and then look at that chestnut.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mungo.</speaker>
+                  <p>I do Massa; I see them.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Lorenzo.</speaker>
+                  <p>Well, this apple is the white man, and that chestnut is the negro.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mungo.</speaker>
+                  <p>O, Massa, what you say is true. The chestnut has a dark skin, just like poor
+                     black man. But its <hi rend="italics">kernel</hi>is all white, and sweet. The
+                     apple, though it looks so pretty, has many little black grains at the
+                     heart.</p>
+                  <p>Now little boys and girls can't be abolitionists until they get rid of all
+                     these black grains in their hearts. And they can't be good while they have such
+                     wicked eharts. Jesus will not love them who hate the poor negro, or hate
+                     God.</p>
+               </sp>
+            </div>
+            <div type="play" xml:id="How_Children_Become_Slaves">
+               <head rend="caps">How Children Become Slaves.</head>
+               <sp>
+                  <speaker rend="italics">John.</speaker>
+                  <p>Mother, I like that hymn, <hi rend="italics">"I was not born a little
+                        slave,"</hi> but do you think those little boys in my Slave's Friend were
+                     born slaves?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mother.</speaker>
+                  <p>Probably they were, my dear.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">John.</speaker>
+                  <p>But why are these little boys slaves more than I?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mother.</speaker>
+                  <p>They are black.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">John.</speaker>
+                  <p>Black! well, I wonder what color my skin is.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mother.</speaker>
+                  <p>It is called white.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">John.</speaker>
+                  <p>O that is the reason they are slaves; jsut because they are black. I do not
+                     want all black boys to be slaves.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mother.</speaker>
+                  <p>All are not slaves.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">John.</speaker>
+                  <p>But, mother, were the slaves always born slaves?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mother.</speaker>
+                  <p>No: in the first place they were stolen.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">John.</speaker>
+                  <p>O dear, dear, I thought it was very wicked to steal even a pin, and do they
+                     steal children? Where do they get them, an how? Do tell me, mother.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mother.</speaker>
+                  <p>From Africa. I will tell you a story about three children that were stolen.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">John.</speaker>
+                  <p>O do mother, and I will be a good boy, and sit very still.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mother.</speaker>
+                  <p>These three children lived with their father and mother, in Africa, about a
+                     mile from the sea side. They were as free as the little birds whose voices they
+                     heard from the topmost boughs of cocoa treel they loved dearly to run in the
+                     woods, chase butterflies, gather wild flowers, and dress themselves with the
+                     palm leafs. One day their mother sent them to get some yams, (like our
+                     potatoes;) they took their baskets and went, little thinking they were to see
+                     their parents no more. As they were digging yams, the youngest boy looked up
+                     and said, "O sister, what is that?" She replied, "I do not know," for she had
+                     never seen a white man before. The men showed them beads and other trinkets.
+                     while the children were looking at them, these men-thieves came behind them and
+                     stuck plasters over tehir mouths. Then they caught them up and ran with them to
+                     the boat, that soon took them to the horrid slave ship.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">John.</speaker>
+                  <p>O how very wicked, but could not the children cry?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mother.</speaker>
+                  <p>No, because their mouths were covered with the plasters.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">John.</speaker>
+                  <p>Mother, I did not think it possible for any one to be so cruel?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mother.</speaker>
+                  <p>Yes, my son, the love of money makes men so. Do you remember that good Mary Ann
+                     who used to live with us?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">John.</speaker>
+                  <p>Yes indeed I do.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mother.</speaker>
+                  <p>Well, one of these boys was her father. How much he suffered in the slave ship,
+                     and after he got to America, I must tell you some other time.</p>
+               </sp>
+            </div>
+            <div type="poem" xml:id="The_Negro_Boys_Petition">
+               <head>The Negro Boy's Petition</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="aaabb">
+                     <l>There is a book, I’ve heard them say,</l>
+                     <l>Which says 'Thou shalt not work nor play,</l>
+                     <l>On God Almighty’s holy day.</l>
+                     <l rend="indent">On Sundays, then, oh! let me look</l>
+                     <l rend="indent">In God Almighty's holy book!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="cccdd">
+                     <l>This book, to which you oft appeal,</l>
+                     <l>Does thus the will of God reveal;</l>
+                     <l>Thou shalt not murder, lie, nor steal.</l>
+                     <l rend="indent">Then let your little negro look</l>
+                     <l rend="indent">In God Almighty's holy book!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="eeeff">
+                     <l>Dear master, you have been to me</l>
+                     <l>As good and kind as man can be,</l>
+                     <l>And many such with joy I see:</l>
+                     <l rend="indent">Then let your little slave boy look</l>
+                     <l rend="indent">In God Almighty's holy book!</l>
+                  </lg>
+               </lg>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="ggghh">
+                     <l>The stripes, 'tis said, that Jesus bore,</l>
+                     <l>Could I but read his sufferings sore,</l>
+                     <l>Would make mine lighter than before:</l>
+                     <l rend="indent">Yes, every sorrow I could brook,</l>
+                     <l rend="indent">By studying <ref target="#note">God Almighty's book!</ref></l>
+                  </lg>
+                  <lg type="stanza" rhyme="iiijj">
+                     <l>I'm told, this book so wise and good,</l>
+                     <l>Has made it fully understood,</l>
+                     <l>God made all nations of one blood.</l>
+                     <l rend="indent">If this be true, I then may meet</l>
+                     <l rend="indent">My master at my Saviour's feet.</l>
+                  </lg>
+               </lg>
+               <note xml:id="s">Put notes HERE!</note>
+            </div>
+         </div>
+         <div>
+            <head>A Slave's Friend No. 3</head>
+            <div type="poem" xml:id="The_Poor_Mother">
+               <head>THE POOR MOTHER</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="abab">
+                     <l>"HELP! oh, help! thou God of Christians</l>
+                     <l rend="indent">Save a mother from despair;</l>
+                     <l>Cruel white-men steal my-children,</l>
+                     <l rend="indent">God of Christians! hear my prayer.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="cdef">
+                     <l>From my arms by force they're rended,</l>
+                     <l rend="indent">Sailors drag them to the sea-</l>
+                     <l>Yonder ship at anchor riding,</l>
+                     <l rend="indent">Swift will carry them away.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ghih">
+                     <l>There my son lies pale and bleeding;</l>
+                     <l rend="indent">Fast with cords his hands are bound;</l>
+                     <l>See the tyrants, how they scourge him;</l>
+                     <l rend="indent">See his sides a reeking wound.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="jklk">
+                     <l>See his little sister by him,</l>
+                     <l rend="indent">Quaking, trembling, how she lies!</l>
+                     <l>Drops of blood her face besprinkle-</l>
+                     <l rend="indent">Tears of anguish fill her eyes.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="mnon">
+                     <l>Now they tear her brother from her;</l>
+                     <l rend="indent">Down below the deck he's thrown:</l>
+                     <l>Stiff with beating--through fear silent,</l>
+                     <l rend="indent">Save a single, death-like groan.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="pqrq">
+                     <l>Hear the little daughter begging,</l>
+                     <l rend="indent">"Take me, white men, for your own;</l>
+                     <l>Spare! Oh, spare my darling brother!</l>
+                     <l rend="indent">He's my mother's only son.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="stut">
+                     <l>"See upon the shore she's raving:</l>
+                     <l rend="indent">Down she falls upon the sands-</l>
+                     <l>Now she tears her flesh with madness,</l>
+                     <l rend="indent">Now she prays with lifted hands.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="vwxw">
+                     <l>"I am young, and strong, and hardy:</l>
+                     <l rend="indent">He's a sick and feeble boy-</l>
+                     <l>Take me, whip me, chain me, starve me,</l>
+                     <l rend="indent">All my life I’ll toil with joy.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="yzaz">
+                     <l>"Christians, who's the God you worship?</l>
+                     <l>Is he cruel, fierce, or good?</l>
+                     <l>Does he take delight in mercy,</l>
+                     <l rend="indent">Or in spilling human blood?</l>
+                  </lg>
+                  <lg type="stanza" rhyme="bcdc">
+                     <l>"Ah! my poor distracted mother!</l>
+                     <l rend="indent">Hear her scream upon the shore."</l>
+                     <l>Down the savage captain struck her,</l>
+                     <l rend="indent">Lifeless on the vessel's floor.</l>
+                  </lg>
+                  <lg type="stanza">
+                     <l>Up his sails he quickly hoisted,</l>
+                     <l rend="indent">To the ocean bent his way;</l>
+                     <l>Headlong plung'd the raving mother,</l>
+                     <l rend="indent">From a rock into the sea.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="play" xml:id="Henry_Scott">
+               <head rend="caps">Henry Scott.</head>
+               <sp>
+                  <speaker rend="italics">Elizabeth.</speaker>
+                  <p>Did you ever hear of a little colored boy who was taken out of school in this
+                     city, and carried to prison?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mary</speaker>
+                  <p>No. What did they do that for?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Elizabeth.</speaker>
+                  <p>I will tell you. He, and his parents, had been slaves. His father had run away,
+                     and took Henry with him. Mr. Wright went to the prison to see them. He asked
+                     the judge to let him take Henry home with him.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mary.</speaker>
+                  <p>Did he let him go?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Elizabeth.</speaker>
+                  <p>Yes, but he made Mr. Wright promise to bring him back next day. Poor Henry was
+                     so afraid that he could hardly fall asleep. He would speak out in his dream, "I
+                     wont go. I wont go."</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mary.</speaker>
+                  <p>O, he is hte boy so many children gave their pennies to have set free. Isn't
+                     he?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Elizabeth.</speaker>
+                  <p>Yes, Mary. He is free now, and at school in the country somewhere. Instead of
+                     being brought up like a beast, he will, I hope, be a good scholar, and pergaps
+                     a minsiter! An't you glad, sister Mary?</p>
+               </sp>
+            </div>
+            <div type="play" xml:id="Little_Dialogue">
+               <head rend="caps">Little Dialogue</head>
+               <sp>
+                  <speaker rend="italics">William.</speaker>
+                  <p>Isn't it a wicked thing to keep slaves?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Ann.</speaker>
+                  <p>Yes, very wicked. And people are beginning to think so.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">William.</speaker>
+                  <p>What does the Bible say about it?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Ann.</speaker>
+                  <p>God "hath made of one blood all nations of men, for to dwell on all the face of
+                     the earth.""God is no respecter of persons.""He that stealeth a man, and
+                     selleth him, or if he be found in his hand, he shall surely be put to
+                     death."</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">William.</speaker>
+                  <p>I long to see all slaves free; to have the children attend Sabbath schools; to
+                     have them taught to read, write, and cipher. What a joyful time that will be,
+                     Ann! Then there will be no <hi rend="italics">slaves</hi> in this <hi
+                        rend="italics">free</hi> country, and all can sing, "Hail Columbia, happy
+                     land.'</p>
+               </sp>
+            </div>
+            <div type="poem" xml:id="On_Going_To_Bed_At_Night">
+               <head>ON GOING TO BED AT NIGHT</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="aabccb">
+                     <l>Receive my body, pretty bed;</l>
+                     <l>Soft pillow, O receive my head;</l>
+                     <l rend="indent">And thanks, my parents kind,</l>
+                     <l>Those comforts who for me provide;</l>
+                     <l>Their precepts still shall be my guide,</l>
+                     <l rend="indent">Their love I'll keep in mind.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ddeffe">
+                     <l>My hours mispent this day I rue,</l>
+                     <l>My good things done how very few!</l>
+                     <l rend="indent">Forgve my faults, O Lord!</l>
+                     <l>This night, if in thy grace I rest,</l>
+                     <l>To-morrow I may rise refresh'd,</l>
+                     <l rend="indent">To keep thy holy word.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="poem" xml:id="Little_Birds_Complaint">
+               <head>Little Bird's Complaint</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="abab">
+                     <l>Here in the wiry prison, where I sing,</l>
+                     <l rend="indent">And think of sweet green woods, and long to fly;</l>
+                     <l>Unable once to stretch my feeble wing,</l>
+                     <l rend="indent">Or wave my feathers in the clear blue sky.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="cdcd">
+                     <l>Oh, how I long to stretch my weary wing,</l>
+                     <l rend="indent">And fly away as far as eye can see;</l>
+                     <l>And from the topmost bough, where Robin sings,</l>
+                     <l rend="indent">Pour my wild songs, and be as gay as he.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="efef">
+                     <l>Why was I taken from the waving nest?</l>
+                     <l rend="indent">From flow'ry fields, wide woods, and hedges green;</l>
+                     <l>Torn from my tender mother's downy breast,</l>
+                     <l rend="indent">In this sad prison-house to die unseen!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ghgh">
+                     <l>Kind mistress, come, with gentle, pitying hand,</l>
+                     <l rend="indent">Unbar my prison door and set me free;</l>
+                     <l>Then on the white thorn bush I'll take my stand,</l>
+                     <l rend="indent">And sing sweet songs to freedom and to thee.</l>
+                  </lg>
+               </lg>
+            </div>
+         </div>
+         <div>
+            <head>A Slave's Friend No. 4</head>
+            <div type="poem" xml:id="I_Dream_Of_All_Things_Free">
+               <head>I DREAM OF ALL THINGS FREE</head>
+               <note>BY MRS. HEMANS.</note>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="ababcdcd">
+                     <l>I dream of all things free!</l>
+                     <l rend="indent">Of a gallant, gallant bark,</l>
+                     <l>That sweeps through the storm at sea,</l>
+                     <l rend="indent">Like an arrow to its mark!</l>
+                     <l>Of a stag that o’er the hills</l>
+                     <l rend="indent">Goes bounding in his glee;</l>
+                     <l>Of a thousand flashing rills—</l>
+                     <l rend="indent">Of all things glad and free.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="efefghgh">
+                     <l>I dream of some proud bird,</l>
+                     <l rend="indent">A bright-eyed mountain king;</l>
+                     <l>In my visions I have heard</l>
+                     <l rend="indent">The rustling of his wing.</l>
+                     <l>I follow some wild river,</l>
+                     <l rend="indent">On whose breast no sail may be;</l>
+                     <l>Dark woods aroudn it shiver—</l>
+                     <l rend="indent">I dream of all things free!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ijijklkl">
+                     <l>Of a happy forest child,</l>
+                     <l rend="indent">With the fawns and flowers at play,</l>
+                     <l>Of an Indain midst the wild,</l>
+                     <l rend="indent">With the stars to guide his way:</l>
+                     <l>Of a chief his warriors leading,</l>
+                     <l rend="indent">Of an archer’s green wood tree—</l>
+                     <l>My heart in chains is bleeding,</l>
+                     <l rend="indent">And I dream of all things free!</l>
+                  </lg>
+               </lg>
+               <note>Felicia Dorothea Browne, was born in Liverpool Her father was a native of
+                  Irelan, and her mother was a German lady. When very young, her parents took her to
+                  Wales. There she married Mr. Hemans She had five sons. She died in 1835, at
+                  Dublin.</note>
+            </div>
+            <div type="play" xml:id="The_School">
+               <head rend="caps">The School.</head>
+               <sp>
+                  <speaker rend="italics">Edward.</speaker>
+                  <p>Do you see that good man teaching that boy?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Ellen.</speaker>
+                  <p>Yes, I see him. Who is he, dear brother? Oh, I guess I know. Isn't it Mr.
+                     Andrews?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Edward.</speaker>
+                  <p>No, Ellen, it is not he. He has gone to Michigan, I am told. But I will tell
+                     you who it is. It is <hi rend="caps">Joshua Coffin,</hi>of Philadelphia.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Ellen.</speaker>
+                  <p>I know him. Papa said he went into his evening school, and saw them writing,
+                     ciphering, and studying. They looked very happy. Now I think of it, don't they
+                     call that school the "African School?"</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Edward.</speaker>
+                  <p>By no means. Mr. Coffin would not let them call it so. All his scholars are
+                     Americans.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Ellen.</speaker>
+                  <p>But I saw on a school-house, in the city of New-York, these words painted, "The
+                     African Free School." What do they call it so for?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Edward.</speaker>
+                  <p>Because people have felt that the colored people among us were foreigners. They
+                     might just as well call our school-house, "the English or Irish School,"
+                     because our great grandfathers came from England and Ireland. </p>
+               </sp>
+            </div>
+            <div type="poem" xml:id="Hymn_for_the_Concert_for_Slaves">
+               <head>Hymn for the Concert for Slaves</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="aabbccdd">
+                     <l>Holy Father, God of love,</l>
+                     <l>Send thy spirit from above;</l>
+                     <l>Help us thy great name to sing,</l>
+                     <l>God of mercy, heavenly King.</l>
+                     <l>For the burdened slave would we</l>
+                     <l>Ask the gift of liberty;</l>
+                     <l>For the weary soul oppressed,</l>
+                     <l>We would ask thy peace and rest.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="eeff">
+                     <l>In thy gracious love arise, —</l>
+                     <l>See his burdens,—hear his cries,—</l>
+                     <l>Rend his fetters,—set him free</l>
+                     <l>From oppression’s tyranny.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="gghh">
+                     <l>Then his thankful voice shall raise</l>
+                     <l>Songs to thee of grateful praise:</l>
+                     <l>Thy great love shall be his theme,</l>
+                     <l>He shall own thee, Lord supreme.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="poem" xml:id="To_a_Butterfly_on_Giving_it_Liberty">
+               <head>TO A BUTTERFLY ON GIVING IT LIBERTY</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="abab">
+                     <l>Poor harmless insect, thither fly,</l>
+                     <l rend="indent">And life’s short hour enjoy;</l>
+                     <l>‘Tis all thou hast, and why should I,</l>
+                     <l rend="indent">That little all destroy?</l>
+                  </lg>
+                  <lg type="stanza" rhyme="cdcd">
+                     <l>Why should my tyrant will suspend,</l>
+                     <l rend="indent">A life by wisdom giv’n;</l>
+                     <l>Or sooner bid thy being end,</l>
+                     <l rend="indent">Than was design’d by Heaven?</l>
+                  </lg>
+                  <lg type="stanza" rhyme="efef">
+                     <l>Lost to the joy which reason knows,</l>
+                     <l rend="indent">Ephermeron and frail,</l>
+                     <l>‘Tis thine to wander where the rose,</l>
+                     <l rend="indent">Perfumes the cooling gale.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ghgh">
+                     <l>To bask upon the sunny bed,</l>
+                     <l rend="indent">The damask flower to kiss,</l>
+                     <l>To range along the bending shade,</l>
+                     <l rend="indent">Is all thy little bliss.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ijij">
+                     <l>Then flutter still thy silken wings,</l>
+                     <l rend="indent">In rich embroidery drest,</l>
+                     <l>And sport upon the gale that flings</l>
+                     <l rend="indent">Sweet odours from his vest.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="play" xml:id="Little_Arithmeticians.">
+               <head rend="caps">Little Arithmeticians.</head>
+               <sp>
+                  <speaker rend="italics">James.</speaker>
+                  <p>I thought, father, you did not mean to have such long words in the Slave's
+                     Friend.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Father.</speaker>
+                  <p>I can not always help it. If you find any word you do not understand, you must
+                     ask the meaning of it.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">James.</speaker>
+                  <p>I will, papa. Do tell me what that great long word, a r i t h m e t i c i a n
+                     s, menas?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Father.</speaker>
+                  <p>It means those who study arithmetic, my son.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">James.</speaker>
+                  <p>Is that all? Why, father, I'm ashamed that I asked you such a question. The
+                     word <hi rend="italics">looked</hi> so long, I did no tthink I knew what it
+                     meant. </p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Father.</speaker>
+                  <p>I want to tell you something about mental arithmetic. It is to reckon <hi
+                        rend="italics">in your head.</hi> Cyphering, you know, is to do it with a
+                        <hi rend="italics">slate,</hi> or <hi rend="italics">pen and ink.</hi> The
+                     Africans reckon in their heads. Their money is a kind of shell. They are called
+                        <hi rend="italics">cowries.</hi> It takes a great many to make a small sum.
+                     Travellers are suprised to see the Africans calculate, in their heads, so well
+                     as they do. They say we cannot reckon so well.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">James.</speaker>
+                  <p>Dont that show that the blacks have as much sense as we have?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Father.</speaker>
+                  <p>It shows that some of them have more. And I want to tell you, my son, and all
+                     my little readers, that it is very rash, and very offensive to God, for white
+                     people to think he has made them superior to black people. If the colored
+                     people only had the same advantages the whites have, they would be equal to
+                     them. This has always been the case. </p>
+               </sp>
+            </div>
+         </div>
+         <div>
+            <head>The Slave's Friend No.5</head>
+            <div type="poem" xml:id="The_Worm">
+               <head>THE WORM</head>
+               <lg type="poem">
+                  <l>No, little worm, thou need not slip</l>
+                  <l>Into thy hole, with such a skip;</l>
+                  <l>Drawing the gravel as thou glides,</l>
+                  <l>On thy smooth and slimy sides.</l>
+                  <l>I’m not a crow, poor worm, not I,</l>
+                  <l>Peeping about thy holes to spy,</l>
+                  <l>And fly away with thee in the air,</l>
+                  <l>To give my little ones each a share.</l>
+                  <l>No, and I’m not a rolling stone,</l>
+                  <l>Creaking along with hollow groan;</l>
+                  <l>Nor am I of the naughty crew,</l>
+                  <l>Who don’t care what poor worms go through,</l>
+                  <l>But trample on them as they lay,</l>
+                  <l>Rather than step the other way.</l>
+                  <l>For my part, I could never bear</l>
+                  <l>Your tender flesh to hack and tear,</l>
+                  <l>Forgetting that poor worms endure</l>
+                  <l>As much as I should, to be sure,</l>
+                  <l>If any giant should come and jump</l>
+                  <l>Upon my back and kill me plump,</l>
+                  <l>Or run my heart through with a scythe,</l>
+                  <l>And think it fun to see me writhe!</l>
+               </lg>
+               <note>>NOTE. When the Bible would represent to us a person that is weak, mean, and
+                  despised in the world, it compares him to a worm of the earth. </note>
+            </div>
+            <div type="poem" xml:id="To_A_Little_Child">
+               <head>TO A LITTLE CHILD</head>
+               <lg type="poem">
+                  <l>O, turn that little foot aside,</l>
+                  <l rend="indent">Nor crush beneath its tread</l>
+                  <l>The humblest creature of the earth,</l>
+                  <l rend="indent">That looks to God for bread.</l>
+                  <l>Thou should’st not dare in wanton sport</l>
+                  <l rend="indent">Such wondrous skill to mar,</l>
+                  <l>To stop the tide of joyous life,</l>
+                  <l rend="indent">Which God has nourished there.</l>
+                  <l>If He who made the universe,</l>
+                  <l rend="indent">Stoops down in kindest love,</l>
+                  <l>To make an insect of the earth,</l>
+                  <l rend="indent">From his high throne above;</l>
+                  <l>O! who should dare that insect’s life</l>
+                  <l rend="indent">In wantonness destroy,</l>
+                  <l>Or give a pang to any thing,</l>
+                  <l rend="indent">That he has made for joy?</l>
+                  <l>My child, begin in little things</l>
+                  <l rend="indent">To act a gentle part,</l>
+                  <l>For God will turn his love away</l>
+                  <l rend="indent">From the hard and cruel heart.</l>
+               </lg>
+            </div>
+         </div>
+         <div>
+            <head>The Slave's Friend No. 11</head>
+            <div type="play" xml:id="James_Jackson">
+               <head rend="caps">James Jackson.</head>
+               <sp>
+                  <speaker rend="italics">Charles.</speaker>
+                  <p>I am glad you bought that pretty book, in Boston, for me to read, Papa. I love
+                     Miss Susan Paul, for writing it. James was a good boy, wasn't he?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Papa.</speaker>
+                  <p>A very good boy. And he was not seven years old, Charles, when he died.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Charles.</speaker>
+                  <p>May I read to you, dear Papa, a little in this book? It is very interesting,
+                     indeed.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Papa.</speaker>
+                  <p>I shall be glad to hear you, my son.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Charles reads.</speaker>
+                  <p>"James thought he should be glad to keep the holy Sabbath, just as the Lord
+                     would have him. A few Sabbaths after James had learned this command, his mother
+                     put some coffee into the coffee-mill, and told him to grind it for breakfast.
+                     James took the mill and began to turn; but soon he almost stopped, and seemed
+                     thinking of something. His sister seeing this, said, 'Ma, shall I grind the
+                     coffee for you?' After a moment, her mother said, 'Yes, I guess you must; James
+                     is lazy this morning.' James looked mildly on his mother, with a tear in his
+                     eye, and said, 'Ma, did I not split wood for you, yesterday?' 'Yes, James; but
+                     that has nothing to do with grinding the coffee, <hi rend="italics">this
+                        morning.'</hi> 'Well, Ma, is not this the Sabbath?' 'Yes.' Then James said
+                     to his mother, 'The commandment says, Remember the Sabbath day, to keep it
+                     holy. On it thou shalt not do <hi rend="italics">any work;</hi> and now, Ma,
+                     ought I to grind the coffee?' His mother was surprised. James set the mill down
+                     on the floor. Then his mother said, 'Well, James, you need not grind the
+                     coffee.'"</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Papa.</speaker>
+                  <p>You may read, now, what he said to the doctor, just before he died.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Charles.</speaker>
+                  <p>I will, sir; here is is. <stage>(Reads.)</stage> "While he was in great pain,
+                     the physician came in; and after standing a few moments by his bed-side, he
+                     went to another part of the room, where James could not see him. James asked
+                     his mother if the doctor had gone. When he was told he had not, 'Well,' said
+                     he, 'I want to see him.' The doctor came to the bed-side, and said, 'What do
+                     you want, James?' He replied, 'I want to know if you <hi rend="italics">love
+                        God, my Saviour?'</hi> 'What do you say, James?' said the doctor. James
+                     repeated, with as much strength as he could, 'Do you know God, my Saviour?' The
+                     doctor, as he turned his face from the little sufferer, said, <hi
+                        rend="italics">'That is a happy child.'</hi>"</p>
+               </sp>
+            </div>
+            <div type="play" xml:id="Mobs">
+               <head rend="caps">Mobs.</head>
+               <sp>
+                  <speaker rend="italics">Ellen.</speaker>
+                  <p>Father, what is the meaning of the word <hi rend="italics">mob?</hi> I don't
+                     find it in the Bible.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Father.</speaker>
+                  <p>I suppose not, but there are many mobs spoken of in the Bible, though under
+                     some other name. the word means a parcel of men and boys got together to do
+                     mischief.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Ellen.</speaker>
+                  <p>Do tell me about the mobs in the Bible.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Father.</speaker>
+                  <p>I will, my child, just mention a few out of a great many. When Jesus went to
+                     Nazareth and preached, the wicked peple of that day "were filled with wrath,
+                     and rose up, and thrust him out of the city, and led him unto the brow, or edge
+                     of the hill whereon their city was built, that they might cast him down
+                     headlong."</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Ellen.</speaker>
+                  <p>Why did they do so, dear father?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Father.</speaker>
+                  <p>Because Jesus told them of their sins so plainly.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Ellen.</speaker>
+                  <p>Will you tell me of another mob?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Father.</speaker>
+                  <p>Judas came with a mob to take Jesus. The holy Savior went into a garden, in the
+                     evening, with his disciples, to pray. Judas came upon him with "a great
+                     multitude with swords and staves, and lanterns and torches." He had told them
+                     the truth, and they would not bear it. They did not want to give up their sins.
+                     So they took him and put him to death.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Ellen.</speaker>
+                  <p>What cruel men to murder the dear Savior!</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Father.</speaker>
+                  <p>I will now tell you of another mob. When Stephen preached, the people got
+                     angry, came upon him, caught him, and told lies about him. "They were cut to
+                     the heart, and they gnashed on him with their teeth." Soon "they cried out with
+                     a loud voice, and stopped their ears, and ran upon him with one accord, and
+                     cast him out of the city, and stoned him."</p>
+               </sp>
+            </div>
+         </div>
+         <div>
+            <head>A Slave's Friend No.8</head>
+            <div type="play" xml:id="Aesop">
+               <head rend="caps">AESOP</head>
+               <sp>
+                  <speaker rend="italics">David.</speaker>
+                     <p>Who was Aesop, dear father?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mr. Snow.</speaker>
+                  <p>He wrote Aesop's Fables, that you love so much to read.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">David.</speaker>
+                  <p>I know that, sir, but where was he born, and who was he?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mr. Snow.</speaker>
+                  <p>He was born in Asia, nearly 600 years before Christ. He was deformed, and a slave. His nose was flat, his lips were thick, and his skin was dark. He used to say, when any one asked him where he was born,"I am a negro." <stage>[See Aesop's Life]</stage></p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">David.</speaker>
+                  <p>Aesop a slave, father! I did not know that before.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mr. Snow.</speaker>
+                  <p>He was, my son. But he had a fine mind; one of his masters had him taught Greek. And Aesop told one he must not look at the color of his skin, but at his mind.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">David.</speaker>
+                  <p>That was a very pretty remark, wasn't it papa? It seems then they let slaves learn to read in old times.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mr. Snow.</speaker>
+                  <p>Yes, no slaves but American slaves have been denied books. How I blush for America! Aesop composed his fables to soften the hardship of being a slave. Learning did not hurt him, you see; and it will not hurt any one. On the cover of the Slave's Friend, it is said, <hi rend="italics">The lips of the wise disperse knowledge.</hi> This is from the Bible. This precious book says also, <hi rend="italics">Fools hate knowledge.</hi></p>
+               </sp>
+            </div>
+            <div type="poem" xml:id="The_Little_Colored_Boy">
+               <lg type="poem">
+                  <lg type="stanza">
+                     <l>“I cannot, cannot wash it off,”</l>
+                     <l>Said the little colored boy,</l>
+                     <l>Whose countenance ne’er shone</l>
+                     <l>With the beaming light of joy—</l>
+                     <l>“I went down to the river’s side,</l>
+                     <l>While master’s people slept,</l>
+                     <l>But I could not, could not wash it off,”</l>
+                     <l>Said the colored boy, and wept.</l>
+                  </lg>
+                  <lg type="stanza">
+                     <l>He looked upon his master’s child,</l>
+                     <l>And thought with what delight</l>
+                     <l>‘Twould fill his little breaking heart,</l>
+                     <l>Were his brow so pure and white;</l>
+                     <l>And softly to the river’s brink</l>
+                     <l>At early dawn he crept,</l>
+                     <l>“I cannot, cannot wash it off,”</l>
+                     <l>Said the colored boy, and wept.</l>
+                  </lg>
+                  <lg type="stanza">
+                     <l>Though dark his brow as ebony,</l>
+                     <l>And sable was his skin,</l>
+                     <l>The gentle mind that he possessed</l>
+                     <l>Was pure and fair within:</l>
+                     <l>But the Ethiop dyes which guilt and sin</l>
+                     <l>Have spread o’er human clay,</l>
+                     <l>There is not any earthly stream</l>
+                     <l>Can cleanse or wash away.</l>
+                  </lg>
+                  <lg type="stanza">
+                     <l>O no! but there’s a fountain pure,</l>
+                     <l>Whose sacred source is Heaven;</l>
+                     <l>Whose ever-living waters</l>
+                     <l>To a sinful world are given–</l>
+                     <l>“Wash in that fountain and be clean,”</l>
+                     <l>Faith hears the spirit say–</l>
+                     <l>“Go to that pure and holy stream,</l>
+                     <l>And wash thy stains away.”</l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="poem" xml:id="The_Pretty_Robin">
+               <head>THE PRETTY ROBIN.</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="aabccb">
+                     <l>Away, pretty robin, fly home to thy nest,</l>
+                     <l>To make thee a captive I still should like best,</l>
+                     <l rend="indent">And feed thee with worms and with bread:</l>
+                     <l>Thy eyes are so sparkling, thy feathers so soft,</l>
+                     <l>Thy little wings flutter so pretty aloft,</l>
+                     <l rend="indent">And they breast is all colored with red.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ddeffe">
+                     <l>But then ‘twould be cruel to keep thee, I know,</l>
+                     <l>So stretch out thy wings, little Robin, and go,</l>
+                     <l rend="indent">Fly home to thy young ones again;</l>
+                     <l>Go, listen again to the notes of thy mate,</l>
+                     <l>And enjoy the green shade in the lonely retreat,</l>
+                     <l rend="indent">Secure from the wind and the rain.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="gghiih">
+                     <l>But when the leaves fall, and the winter winds blow,</l>
+                     <l>And the green fields are covered all over with snow,</l>
+                     <l rend="indent">And the clouds in white feathers descend;</l>
+                     <l>When the springs are all ice, and the rivulets freeze,</l>
+                     <l>And the long shining icicles drop from the trees,</l>
+                     <l rend="indent">Then, Robin, remember thy friend.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="jjkllk">
+                     <l>When with cold and with hunger quite perished and weak,</l>
+                     <l>Come tap at my window again with thy beak,</l>
+                     <l rend="indent">And gladly I’ll let thee come in;</l>
+                     <l>Thou shalt fly to my bosom, or perch on my thumbs,</l>
+                     <l>Or hop round the table and pick up the crumbs,</l>
+                     <l rend="indent">And never be hungry again.</l>
+                  </lg>
+               </lg>
+            </div>
+         </div>
+         <div>
+            <head>A Slave's Friend No.9</head>
+            <div type="poem" xml:id="Is_It_Possible">
+               <head>IS IT POSSIBLE?</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="aabbccdde">
+                     <l>May children as young as I be sold,</l>
+                     <l>And torn away from their mother’s hold–</l>
+                     <l>From home—from all they have loved and known,</l>
+                     <l>To dwell in the great wide world alone?</l>
+                     <l>Far, far away in some distant place,</l>
+                     <l>Where they never may see their parent’s face?</l>
+                     <l>Oh, how I should cry to be torn from you!</l>
+                     <l>Tell me, dear mother, can this be true?</l>
+                     <l rend="indent">Yes, my child.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ffgghhiij">
+                     <l>And can the tales I have heard to be true,</l>
+                     <l>Of the cruel things some masters do?</l>
+                     <l>That the poor slaves often must creep to bed,</l>
+                     <l>On their scattered straw, but scantily fedl</l>
+                     <l>Be sometimes loaded with heavy chains,</l>
+                     <l>And flogged till their blood the keen lash stains;</l>
+                     <l>While none will care for their bitter cry,</l>
+                     <l>Or soothe their hearts, when their grief is high?</l>
+                     <l rend="indent">Yes, my child.</l>
+                     <byline>
+                        <docAuthor>MARGARET.</docAuthor>
+                     </byline>
+                  </lg>
+               </lg>
+            </div>
+            <div type="poem" xml:id="Snow">
+               <head>SNOW.</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="abab">
+                     <l>O come to the window, dear brother, and see,</l>
+                     <l>What mischief was done in the night;</l>
+                     <l>The snow has quite cover’d the nice appletree,</l>
+                     <l>And the bushes are sprinkled with white.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="cdcd">
+                     <l>The spring in the grove is beginning to freeze,</l>
+                     <l>The pond is hard frozen all o’er;</l>
+                     <l>Long icicles hang in bright rows from the trees,</l>
+                     <l>And drop in odd shapes from the door.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="efef">
+                     <l>The old mossy thatch, and the meadow so green,</l>
+                     <l>Are cover’d all over with white;</l>
+                     <l>The snowdrop and crocus no more can be seen,</l>
+                     <l>The thick snow has covered them quite.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ghgh">
+                     <l>And see the poor birds how they fly to and fro,</l>
+                     <l>They’re come for their breakfast again,</l>
+                     <l>But the little worms all are hid under the snow,</l>
+                     <l>They hop about chirping in vain.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ijij">
+                     <l>Then open the window, I’ll throw them some bread,</l>
+                     <l>I’ve some of my breakfast to spare;</l>
+                     <l>I wish they would come to my hand to be fed,</l>
+                     <l>But they’re all flown away in the air.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="klkl">
+                     <l>Nay, now, pretty birds, don’t be frightened, I pray,</l>
+                     <l>You shall not be hurt I’ll engage;</l>
+                     <l>I’m not come to catch you and force you away,</l>
+                     <l>And fasten you up in a cage.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="mnmn">
+                     <l>I wish you could know you’ve no cause for alarm,</l>
+                     <l>From me you have nothing to fear;</l>
+                     <l>Why, my little fingers would do you no harm,</l>
+                     <l>Although you came ever so near. </l>
+                  </lg>
+               </lg>
+            </div>
+         </div>
+         <div>
+            <head>The Slave's Friend No.10</head>
+            <div type="poem" xml:id="Stephen_to_Mary">
+               <note>Found in Mary Walton’s work-box, after the decease of Stephen Ricks, who died
+                  at the Shelter for colored Orphans,* in the 2d month, 1832.</note>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="aabbccddeeffgghh">
+                     <l>Mary, once I feared to go</l>
+                     <l>From a world of care and woe;</l>
+                     <l>But thou taught me how to die—</l>
+                     <l>How to fix my hopes on high;</l>
+                     <l>Bade my childish fears depart,</l>
+                     <l>And revived my trembling heart;</l>
+                     <l>Told me in a heavenly land,</l>
+                     <l>With a chosen seraph band,</l>
+                     <l>I should join in singing praise,</l>
+                     <l>And my feeble anthems raise.</l>
+                     <l>Yes! thou taught a little child,</l>
+                     <l>With affection meek and mild,</l>
+                     <l>That his home was far above,</l>
+                     <l>In a land of peace and love;</l>
+                     <l>Told me Jesus sweetly smiled</l>
+                     <l>On a humble, sable child.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="iijjkkllmmnnoopp">
+                     <l>Oh then, dearest Mary, still</l>
+                     <l>With thy king, persuasive skill,</l>
+                     <l>Lead a little orphan band</l>
+                     <l>To this bright, celestial land,</l>
+                     <l>Where the colored people share</l>
+                     <l>In redeeming mercy fair.</l>
+                     <l>In that holy, heavenly spot,</l>
+                     <l>Jesus says, “Forbid them not;</l>
+                     <l>Suffer them to come to me,</l>
+                     <l>They shall of my goodness see.”</l>
+                     <l>And when Mary’s glass is run,</l>
+                     <l>When her work on earth is done,</l>
+                     <l>Here a little ransomed band</l>
+                     <l>Shall before her joyful stand,</l>
+                     <l>Shall before her joyful stand,</l>
+                     <l>Welcome to a land of love,</l>
+                     <l>To a “shelter” far above,</l>
+                     <l>Where no little orphan’s tear</l>
+                     <l>Shall distress a heart sincere;</l>
+                  </lg>
+                  <lg type="stanza" rhyme="qqrrsstt">
+                     <l>Where no parting funeral knell</l>
+                     <l>Shall a long, sad farewell tell.</l>
+                     <l>Oh then, dearest Mary, stay—</l>
+                     <l>Teach the orphans how to pray;</l>
+                     <l>Lead them all to Jesus fair,</l>
+                     <l>Make them thy peculiar care—</l>
+                     <l>Bid their infant hearts arise,</l>
+                     <l>Lead them to the blissful skies.</l>
+                  </lg>
+               </lg>
+               <note>*This Shelter for Colored Orphans is in Philadelphia. Some account of it was
+                  given in the Slave’s Friend No. 7. It was built by the Society of Friends. </note>
+            </div>
+            <div type="play" xml:id="Thief_And_Robber">
+               <head rend="caps">Thief and Robber.</head>
+               <sp>
+                  <speaker rend="italics">Alfred.</speaker>
+                  <p>What is the difference, Mr. Sherwood, between a <hi rend="italics">thief</hi> and a <hi rend="italics">robber?</hi> siad Alfred to his teacher.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mr. Sherwood.</speaker>
+                  <p>A <hi rend="italics">thief</hi> is one that takes what is not his own by stealth, that is, secretly. A <hi rend="indent">robber</hi> is one that plunders by force.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Alfred.</speaker>
+                  <p>The robber then runs more danger than the thief, does he not, sir?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mr. S.</speaker>
+                  <p>Certainly. He risks more personal danger.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Alfred.</speaker>
+                  <p>Then it is meaner and more cowardly, to be a thief than a robber, I should think.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mr. S.</speaker>
+                  <p>It doubless is; but both are great crimes—against the laws of God and man.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Alfred.</speaker>
+                  <p>Is a slave-holder a thief or a robber?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mr. S.</speaker>
+                  <p>Both, I think. He takes men, women, and children, <hi rend="italics">by stealth, and by force.</hi> In Exodus 21:16, it is said, "And he that stealeth a man and selleth him, or if he be found in his hand, he shall surely be put to death." Man-stealing, in those days, you see, was considered a very great crime. the apostle Paul, in 1 Tim. 1:10, says, "The Law is made for men-stealers." Stealers of men are all those who bring off slaves or freemen, an keep, sell, or buy them. Bishop Horsely said, "We have reason to conclude, from the mention made of 'slave-traders' or 'men-stealers' by the apostle Paul, that if any of them should ever find their way to heaven, they must go thither in company with murderers and parricides."*</p>
+               </sp>
+               <note>A parricide is a murderer of a father.</note>
+            </div>
+            <div type="poem" xml:id="Address_Of_A_Little_Slave_Boy">
+               <head>ADDRESS OF A LITTLE SLAVE-BOY TO HIS MASTER’S SON.</head>
+               <lg type="poem">
+                  <l>Dear white young master, hear, I pray,</l>
+                  <l>What your poor black boy aims to say.</l>
+                  <l>I often wonder why should be</l>
+                  <l>Such difference betwixt you and me;</l>
+                  <l>For I’m as tall and strong as you,</l>
+                  <l>And many things as well can do;</l>
+                  <l>Can feel and see, can hear and talk.</l>
+                  <l>‘Tis true I am not nice of speech;</l>
+                  <l>For who poor simple black will teach?</l>
+                  <l>For me to labor, dig and hoe,</l>
+                  <l>Is all that I am like to know;</l>
+                  <l>But you have teachers every day,</l>
+                  <l>And much you learn, at least you may;</l>
+                  <l>They teach you to be good and wise,</l>
+                  <l>But my hard lot this boon denies.</l>
+                  <l>Dear, good young master, pray attend;</l>
+                  <l>You can poor friendless black befriend;</l>
+                  <l>Neglected, ignorant, and rude,</l>
+                  <l>I fain would learn, would fain be good;</l>
+                  <l>Oh teach me part of what you know,</l>
+                  <l>You will not lose what you bestow;</l>
+                  <l>And if a slave I still must be,</l>
+                  <l>Oh let my mind at least be free.</l>
+                  <l>I heard your kind mamma one day</l>
+                  <l>A little lesson bid you say;</l>
+                  <l>She bid you fix it in your heart,</l>
+                  <l>Nor ever from its law depart;</l>
+                  <l>“Be you to others kinda nd true,</l>
+                  <l>As you’d have others be to you.”</l>
+                  <l>As you repeated what she taught,</l>
+                  <l>My ear, my heart, the lesson caught;</l>
+                  <l>And will he make this rule his guide?</l>
+                  <l>“He will–he must”—my heart replied;</l>
+                  <l>And oh! what joy to all my race,</l>
+                  <l>When all ofo his this rule embrace!</l>
+                  <l>Now, dear young master, what would you,</l>
+                  <l>Were our lots changed, wish me to do?</l>
+               </lg>
+               <signed>W.M.</signed>
+            </div>
+            <div type="play" xml:id="Washington_A_Dialogue">
+               <head rend="caps">Washington.—A Dialogue.</head>
+               <sp>
+                  <speaker rend="italics">Benjamin.</speaker>
+                  <p>Was Washington a slave-holder, Papa?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mr. Durfy.</speaker>
+                  <p>Yes, he was. But he knew it was not right to hold men as property.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Benj.</speaker>
+                  <p>I read in Washington's <hi rend="italics">Will</hi> that he gave a good many slaves their freedom at his death.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mr. D.</speaker>
+                  <p>He did so, and it would have been better if he had let them go free in his lifetime.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Benj.</speaker>
+                  <p>Is it a good excuse, father, for any one to say, "Washington was a slave-holder."</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Mr. D.</speaker>
+                  <p>By no means. A person might as well attempt to justify drunkenness by saying, Governor A. drank brandy. There, my son, read what Washington himself, said of slavery.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Benj.</speaker>
+                  <stage>[Reads in Sparks's edition of Washington's Papers.]</stage>
+                  <p>"I can only say, that there is not a man living, who wishes more sincerely than I do to see a plan adopted for the abolition of it, (slavery)."<hi rend="italics">Letter to Robert Morris.</hi> "Your late purchase of an estate in the colony of Cayenne, with a view of emancipating the slaves on it, is a generous and noble proof of your humanity. Would to God a like spirit might diffuse itself generally into the minds of the people of this country." – <hi rend="italics">Letter to the Marquis de Lafayette.</hi> "I never mean, unless some paritcular circumstance should compel me to it, to possess another slave by purchase, it being among my first wishes to see some plan adopted, by which slavery in this country may be abolished by law." –<hi rend="italics">Letter to John F. Mercer.</hi></p>
+               </sp>
+            <div type="poem" xml:id="A_Slave_Ship">
+               <head rend="caps">A SLAVE-SHIP.*</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="abcb">
+                     <l>Oh! I have done a cursed deed,</l>
+                     <l>The wretched man replies,</l>
+                     <l>And night and day, and every where,</l>
+                     <l>‘Tis still before my eyes.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="defe">
+                     <l>I sailed on board a guinea-man,</l>
+                     <l>And to the slave-coast went,</l>
+                     <l>Would that the sea had swallowed me,</l>
+                     <l>When I was innocent!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ghih">
+                     <l>And we took in our cargo there,</l>
+                     <l>Three hundred negro slaves;</l>
+                     <l>And we sailed onward merrily,</l>
+                     <l>Over the ocean waves.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="jklk">
+                     <l>One woman, sulkier than the rest,</l>
+                     <l>Would still refuse her food—</l>
+                     <l>Hark! hark! e’en now I hear her cries!</l>
+                     <l>I see her in her blood!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="mnon">
+                     <l>They flung her overboard—poor wretch,</l>
+                     <l>She rested from her pain;</l>
+                     <l>But when, O when! O blessed God,</l>
+                     <l>Shall I have rest again?</l>
+                  </lg>
+               </lg>
+               <note>From the Juvenile Poems for the use of Free American Children, of every
+                  complexion. By W.L.G.</note>
+               <note>*A sailor was seen on his knees, crying and groaning, and confessing to God
+                  that he had been to the African coast for slaves. </note>
+            </div>
+         </div>
+         <div>
+            <head>The Slave's Friend No.11</head>
+            <div type="poem" xml:id="The_Slave_Trader">
+               <head>THE SLAVE TRADER</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="ababab">
+                     <l>From the ocean’s wave a wanderer came,</l>
+                     <l rend="indent">With visage tanned and dun;</l>
+                     <l>His mother, when he told his name,</l>
+                     <l rend="indent">Scarce he knew her long lost son;</l>
+                     <l>So altered were his face and frame,</l>
+                     <l rend="indent">By the ill course he had run.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="cdcdcd">
+                     <l>“There’s blood upon my hands,” he said,</l>
+                     <l rend="indent">“Which water cannot wash;</l>
+                     <l>It was not shed where warriors bled,</l>
+                     <l rend="indent">But dropped from the gory lash,</l>
+                     <l>As I whirled it o’er and o’er my head,</l>
+                     <l rend="indent">And with each stroke left a gash.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="efefgf">
+                     <l>“With every stroke I left a gash,</l>
+                     <l rend="indent">While negro blood sprang high,—</l>
+                     <l>And now all ocean cannot wash</l>
+                     <l rend="indent">My soul from murder’s dye;</l>
+                     <l>Not e’en thy prayer, dear mother, stop</l>
+                     <l rend="indent">That woman’s wild death-cry!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="hihihi">
+                     <l>“Her cry is ever in my ear</l>
+                     <l rend="indent">And will not let me pray,</l>
+                     <l>Her look I see— her voice I hear—</l>
+                     <l rend="indent">As when in death she lay,</l>
+                     <l>And said, ‘with me thou must appear,</l>
+                     <l rend="indent">On God’s great Judgement Day!’”</l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="play" xml:id="Slave_Vessels">
+               <head rend="caps">Slave Vessels.</head>
+               <sp>
+                  <speaker rend="italics">Rufus.</speaker>
+                  <p>What Ship is that?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Seth.</speaker>
+                  <p>That is not a Ship, dear brother, but a Brig. Her name is Saint Nicholas.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Rufus.</speaker>
+                  <p>Is that the <hi rend="italics">slaver?</hi></p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Seth.</speaker>
+                  <p>She is supposed to be a slave-vessel.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Rufus.</speaker>
+                  <p>I heard that the collector of New York had seized that brig, just as she was ready for sea, and that the captain and part of the crew had been taken before the United States Judge. What made them think it was a slaver?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Seth.</speaker>
+                  <p>She was built very sharp, so as to sail fast, and take but little cargo. That shows she was not intended for a merchant ship. The English ships of war cruise on the coast of Africa, and they will capture slave ships if they do not sail very fast. Then she had large water tanks that would hold upwards of one hundred and twenty gallons of water each. This shows that they expected to have a large number of people on board to drink this water. Merchant vessels take water in casks. There were also cannon, muskets, cutlasses, and pistols on board.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Rufus.</speaker>
+                  <p>But I heard someone say she might belong to the navy, or be a privateer?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Seth.</speaker>
+                  <p>If she had been either they would have shown their commision. Besides, there were iron-gratings for the hatchways.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Rufus.</speaker>
+                  <p>What use could they make of the gratings?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Seth.</speaker>
+                  <p>They put them over the hatchway so that light and air can go down into the hold of the vessel and the slaves can still be kept from escaping. Slave vessels always have them. And the witnesses who had seen slave-vessels had no doubt from her general appearance that this brig was one. The cargo consisted of such goods as the slave-traders take to Africa to exchange for slaves. There were, beside other articles, twenty-five boxes of muskets, and five hundred kegs of powder! They can buy a slave in Africa for a musket or a flask of gunpowder.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Rufus.</speaker>
+                  <p>O, dreadful! What wicked men! But could not they make the sailors tell where they were going? And what they were going for?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Seth.</speaker>
+                  <p>No, they would not confess anything before the Judge. But two of them, who were Italians, had told a few days before, that they were going to Africa “after n—” and when they had brought them to the island of Cuba, they were going to sell them. So the Judge sent these two sailors to prison, and they will be tried, and as there was not evidence enough to commit the rest they were set at liberty.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Rufus.</speaker>
+                  <p>What will be done to such people and to the brig, if the men are proved to be guilty?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Seth.</speaker>
+                  <p>The vessel will be <hi rend="italics">confiscated,</hi> that is taken from them; besides they will have to pay a large fine, and be put in prison. Now, Rufus, what will you say when I tell you this brig was built at Baltimore, and that people in this country join with wicked men of other nations, in fitting out vessels for the slave-trade, every year?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Rufus.</speaker>
+                  <p>What will I say? Why, that it is a disgrace to this country, and a horrible wickedness in the sight of God. I read the other day about these wicked brokers in the trade of blood, who buy, and sell, and steal, for gold.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Seth.</speaker>
+                  <p>I have read also what <hi rend="italics">Jonathan Edwards</hi> said, forty-three years ago, – “To steal a man, or to rob him of his liberty, is a greater sin than to steal his property, or to take it by violence. And to hold a man in a state of slavery, who has a right to his liberty, is to be every day guilty of robbing him of his liberty, or of man-stealing.” I wish that all ministers, nowadays, would preach the truth so faithfully. Then, as your father said yesterday, slavery would soon come to an end; and when there is no slavery there will be no slave-trade.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">James.</speaker>
+                  <p>I have just heard that the <hi rend="italics">St. Nicholas</hi> has gone to sea! The grand jury have indicted the captain; but the consignees had given bonds for a quarter of the brig, and so away went the pirate-brig!!</p>
+               </sp>
+            </div>
+            </div>
+            <div type="poem" xml:id="Letter_From_an_Infant_Slave">
+               <head>LETTER FROM AN INFANT SLAVE TO THE CHILD OF ITS MISTRESS – BOTH BORN ON THE
+                  SAME DAY</head>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="aabccb">
+                     <l>Baby! Be not surprised to see</l>
+                     <l>A few short lines coming from me,</l>
+                     <l rend="indent">Addressed to you;</l>
+                     <l>For babies black of three months old</l>
+                     <l>May write as well, as I’ve been told,</l>
+                     <l rend="indent">Some white ones do.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ddeffe">
+                     <l>There are some things I hear and see,</l>
+                     <l>Which very much do puzzle me,</l>
+                     <l rend="indent">Pray don’t they you?</l>
+                     <l>For the same day our lives begun,</l>
+                     <l>And all things here beneath the sun,</l>
+                     <l rend="indent">To both are new.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="gghiih">
+                     <l>Baby, sometimes I hear you cry,</l>
+                     <l>Any many run to find out why,</l>
+                     <l rend="indent">And cure the pain;</l>
+                     <l>But when I cry from pains severe,</l>
+                     <l>There’s no one round who seems to hear,</l>
+                     <l rend="indent">I cry in vain.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="jjkllk">
+                     <l>Except it be when she is nigh,</l>
+                     <l>Whose gentle love, I know not why,</l>
+                     <l rend="indent">Is all for me;</l>
+                     <l>Her tender care soothes all my pain,</l>
+                     <l>Brings to my face those smiles again,</l>
+                     <l rend="indent">She smiles to see.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="mmnoon">
+                     <l>With hunger faint, with grief distressed,</l>
+                     <l>I once my wretchedness expressed,</l>
+                     <l rend="indent">With urgent power;</l>
+                     <l>Some by my eloquence annoyed,</l>
+                     <l>To still my grief rough blows employed;</l>
+                     <l rend="indent">Oh, dreadful hour!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ppqrrq">
+                     <l>Why first thy father saw his child,</l>
+                     <l>With hope, and love, and joy, he smiled —</l>
+                     <l rend="indent">Bright schemes he planned;</l>
+                     <l>Mine groaned, and said with sullen brow,</l>
+                     <l>Another slave is added now</l>
+                     <l rend="indent">To this free land.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="sstuut">
+                     <l>Why am I thought so little worth,</l>
+                     <l>You prized so highly from your birth?</l>
+                     <l rend="indent">Tell, if you know;</l>
+                     <l>Why are my woes and joys as nought,</l>
+                     <l>With careful love your’s shunned or sought</l>
+                     <l rend="indent">Why is it so?</l>
+                  </lg>
+                  <lg type="stanza" rhyme="vvwxxw">
+                     <l>My own dear mother, it is true,</l>
+                     <l>Loves me as well as your’s does you;</l>
+                     <l rend="indent">But when she’s gone,</l>
+                     <l>None else to me a care extends;</l>
+                     <l>None else to me a care extends;</l>
+                     <l rend="indent">I only one?</l>
+                  </lg>
+                  <lg type="stanza" rhyme="yyzaaz">
+                     <l>Why must that one be sent away,</l>
+                     <l>Compelled for long, long hours to stay</l>
+                     <l rend="indent">Apart from me?</l>
+                     <l>I think as much as I she mourns,</l>
+                     <l>And is a glad when she returns,</l>
+                     <l rend="indent">Her child to see.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="bbcddc">
+                     <l>One day I saw my mother weep,</l>
+                     <l>A tear fell on me when asleep,</l>
+                     <l rend="indent">And made me wake;</l>
+                     <l>Not for herself that tear was shed,</l>
+                     <l>Her own woes she could bear, she said,</l>
+                     <l rend="indent">But for my sake.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="eefggf">
+                     <l>She could not bear, she said, to think,</l>
+                     <l>That I the cup of woe must drink,</l>
+                     <l rend="indent">Which she had drunk;</l>
+                     <l>That from my cradle to my grave,</l>
+                     <l>I too must live a wretched slave,</l>
+                     <l rend="indent">Degraded, sunk.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="hhijji">
+                     <l>Her words I scarcely understood,</l>
+                     <l>They seemed to speak of little good,</l>
+                     <l rend="indent">For coming years;</l>
+                     <l>But joy with all my musings blends,</l>
+                     <l>And infant thought not far extends</l>
+                     <l rend="indent">Its hopes or fears.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="kklmml">
+                     <l>I ponder much to comprehend</l>
+                     <l>What sour of beings, gentle friend,</l>
+                     <l rend="indent">We’ve got among;</l>
+                     <l>Some things in my experience,</l>
+                     <l>Do much confound my budding sense</l>
+                     <l rend="indent">Of right and wrong.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="nnoppo">
+                     <l>Baby, I love you; ‘tis not right</l>
+                     <l>To love you less because you’re white;</l>
+                     <l rend="indent">Then surely you</l>
+                     <l>Will never learn to scorn or hate,</l>
+                     <l>Whom the same Maker did create</l>
+                     <l rend="indent">Of darker hue.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="qqrssr">
+                     <l>Beneath thy pale uncolored skin,</l>
+                     <l>As warm a heart may beat within,</l>
+                     <l rend="indent">As beats in me.</l>
+                     <l>Unjustly I will not forget,</l>
+                     <l>Souls are not colored white or jet,</l>
+                     <l rend="indent">In thee or me.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ttuvvu">
+                     <l>Your coming of the tyrant race,</l>
+                     <l>I will not think in you disgrace,</l>
+                     <l rend="indent">Since not your choice;</l>
+                     <l>If you’re as just and kind to me,</l>
+                     <l>Through all our lives, why may not we,</l>
+                     <l rend="indent">In love rejoice?</l>
+                  </lg>
+               </lg>
+               <signed>E.T.C.</signed>
+            </div>
+            <div type="poem" xml:id="Little_Slaves_Complaint">
+               <head rend="caps italics">Little Slave's Complaint</head>
+               <byline>By Montgomery</byline>
+               <lg type="poem">
+                  <lg type="stanza" rhyme="abab">
+                     <l>Who loves the little slave? Who cares</l>
+                     <l rend="indent">If well or ill I be?</l>
+                     <l>Is there a living soul that shares</l>
+                     <l rend="indent">A thought or wish for me?</l>
+                  </lg>
+                  <lg type="stanza" rhyme="cded">
+                     <l>I’ve had no parents since my birth,</l>
+                     <l rend="indent">Brothers and sisters — none:</l>
+                     <l>O, what is all this world to me, </l>
+                     <l rend="indent">Where I am only one!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="fgfg">
+                     <l>I wake, and see the sun arise,</l>
+                     <l rend="indent">And all around me gay;</l>
+                     <l>But nothing I behold is mine,</l>
+                     <l rend="indent">No— not the life of day!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="hihi">
+                     <l>No ! not the very breath I draw—</l>
+                     <l rend="indent">These limbs are not my own;</l>
+                     <l>A master calls me his by law,</l>
+                     <l rend="indent">My griefs are mine alone.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="jkjk">
+                     <l>Ah, these they could not make him feel-</l>
+                     <l rend="indent">Would they themselves had felt</l>
+                     <l>Who bound me to that man of steel,</l>
+                     <l rend="indent">Whom mercy cannot melt.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="lmlm">
+                     <l>Yet not for wealth or ease I sigh,</l>
+                     <l rend="indent">All are not rich and great:</l>
+                     <l>Many may be as poor as I —</l>
+                     <l rend="indent">But none so desolate.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="nono">
+                     <l>For all I know have kin and kind,</l>
+                     <l rend="indent">Some home, some hope, some joy;</l>
+                     <l>But these I must not look to find—</l>
+                     <l rend="indent">Who knows the colored boy?</l>
+                  </lg>
+                  <lg type="stanza" rhyme="pqpq">
+                     <l>The world has not a place of rest</l>
+                     <l rend="indent">For outcasts so forlorn —</l>
+                     <l>‘Twas all bespoken, all possest—</l>
+                     <l rend="indent">Long before I was born!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="rsrs">
+                     <l>Affection, too, life’s sweetest cup,</l>
+                     <l rend="indent">Goes round from hand to hand;</l>
+                     <l>But I am never ask’d to sup—</l>
+                     <l rend="indent">Out of the ring I stand!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="tutu">
+                     <l>If kindness beats within my heart,</l>
+                     <l rend="indent">What heart will beat again?</l>
+                     <l>I coax the dogs, — they snarl and start,-</l>
+                     <l rend="indent">Brutes are as bad as men.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="vwvw">
+                     <l>The beggar’s child may rise above </l>
+                     <l rend="indent">The misery of his lot,</l>
+                     <l>The g—- may be loved and love —</l>
+                     <l rend="indent">But I — but I — must not.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="xyxy">
+                     <l>Hard fare, cold lodgings, cruel toil,</l>
+                     <l rend="indent">Youth, health, and strength consume;</l>
+                     <l>What tree could thrive in such a soil?</l>
+                     <l rend="indent">What flower so scathed could bloom?</l>
+                  </lg>
+                  <lg type="stanza" rhyme="zaza">
+                     <l>Should I outgrow this cripling work,</l>
+                     <l rend="indent">How shall my bread be sought?</l>
+                     <l>Must I to other lads turn Turk,</l>
+                     <l rend="indent">And teach what I am taught?</l>
+                  </lg>
+                  <lg type="stanza" rhyme="bcbc">
+                     <l>O! might I roam with flocks and herds</l>
+                     <l rend="indent">In fellowship along!</l>
+                     <l>O! were I one among the birds—</l>
+                     <l rend="indent">All wing, all life, all song!</l>
+                  </lg>
+                  <lg type="stanza" rhyme="dede">
+                     <l>Free with the fishes may I dwell,</l>
+                     <l rend="indent">Down in the quiet sea;</l>
+                     <l>The snail in his cobeastled shell—</l>
+                     <l rend="indent">The snail’s a king to me.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="fgfg">
+                     <l>For out he goes in April showers,</l>
+                     <l rend="indent">Lies snug when storms prevail,</l>
+                     <l>He feeds on fruits, he sleeps on flowers —</l>
+                     <l rend="indent">I wish I was a snail.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="hihi">
+                     <l>No: neyer ! do the worst they can,</l>
+                     <l rend="indent">I may be happy still;</l>
+                     <l>For I was born to be a man —</l>
+                     <l rend="indent">And with God’s leave, I will.</l>
+                  </lg>
+               </lg>
+               <note>We have altered the title of this sweet little poem, and a word or two in a few
+                  of the verses.</note>
+               <signed>– Ed.</signed>
+            </div>
+         </div>
+         <div>
+            <head>The Slave's Friend No. 12</head>
+            <div type="poem" xml:id="Hymn">
+               <head rend="caps">Hymn</head>
+               <lg type="poem">
+                  <l>Whatsoever ye would that men should do to you, do ye even so to them.</l>
+                  <lg type="stanza" rhyme="ababccdd">
+                     <l>When on the fragrant sandal tree</l>
+                     <l>The woodman’s axe descends,</l>
+                     <l>And that which flourished beauteously,</l>
+                     <l>Beneath his keen stroke bends,</l>
+                     <l>E’en on the edge that wrought its death;</l>
+                     <l>Dying, it sheds its sweetest breath,</l>
+                     <l>As if to token in its fall,</l>
+                     <l>Peace to its foes, and love to all.</l>
+                  </lg>
+                  <lg type="stanza" rhyme="eeff">
+                     <l>How hardly we this lesson learn,</l>
+                     <l>To smile and bless the hands that spurn,—</l>
+                     <l>To see the bow,—to feel the pain,</l>
+                     <l>Yet render only love again;</l>
+                  </lg>
+                  <lg type="stanza" rhyme="ghhii">
+                     <l>One bore this spirit, who from heaven</l>
+                     <l>Dweld on our earth and was betrayed,</l>
+                     <l>No curse he breathed, no plaint he made,</l>
+                     <l>But when in death for them he sighed,</l>
+                     <l>Prayed for his murderers, and died!</l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="play" xml:id="Pompey_and_the_Justice">
+               <head rend="caps">Pompey and the Justice.</head>
+               <sp>
+                  <speaker rend="italics">Justice.</speaker>
+                  <p>Here, you black rascal, you have been stealing, have you?</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Pompey.</speaker>
+                  <p>"Yes, masssa. Me know me got dem tings from Tom dere. ME tink Tom 'teal dem too; but what den, massa? Dey be only a piccaninny knife, and a piccaninny corkscrew. An' me <hi rend="italics">pay Tom honestly for dem,</hi> massa."</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Justice.</speaker>
+                  <p>A pretty story, truly! You knew they were stolen, and yet excuse yourself by saying you paid honestly for them. Don't you know, Pompey, that "the Receiver is as bas as the Thief?" You shall be whipt!</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Pompey.</speaker>
+                  <p>"Very well, massa; it be all right, I 'spose. But if de black rascal be whipt for buying 'tolen goods, me hope de white rascal be whipt too, for same ting, when you catch him."</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Justice.</speaker>
+                  <p>To be sure.</p>
+               </sp>
+               <sp>
+                  <speaker rend="italics">Pompey.</speaker>
+                  <p>"Well den, here be Tom's massa - hold him fast, constable! He buy Tom, as I buy de piccaninny knife, and de piccaninny corkscrew. He knew berry well Tom be stole from his old fadder and mudder. De knife and de corkscrew hab neder!"</p>
+               </sp>
+               </div>
+         </div>
+      </body>
+   </text>
+</TEI>
