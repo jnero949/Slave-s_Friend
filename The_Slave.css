@@ -1,0 +1,76 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    text-align: center;
+}
+
+.toc {
+    color:blue;
+    font-family:'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.head {
+    font-family:'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+.caps {
+    text-transform: uppercase;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.speaker {
+    font-style:italic ;
+    font-size:20px;
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.l {
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.indented {
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    text-align:justify;
+}
+
+.p-in-sp {
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size:18px;
+}
+
+.stage {
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.headingNumber {
+    display:none;
+}
+
+.note {
+    font-family:'Times New Roman', Times, serif;
+    font-size:14px;
+
+}
+
+.docAuthor {
+    font-family:'Times New Roman', Times, serif,;
+    font-size:14px;
+}
+
+.signed {
+    font-family:'Times New Roman', Times, serif;
+    font-size:14px
+}
+
+.byline{
+    font-family:'Times New Roman', Times, serif;
+    font-size:14px
+}
