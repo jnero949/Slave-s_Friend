@@ -7,10 +7,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>The Slave's Friend: A Digital Edition</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Encoded in Oxygen, distributed via Github. For educational, non-commercial use only.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Information about the source</p>
@@ -113,12 +113,12 @@
                <sp>
                   <speaker rend="italics">Mungo.</speaker>
                   <p>O, Massa, what you say is true. The chestnut has a dark skin, just like poor
-                     black man. But its <hi rend="italics">kernel</hi>is all white, and sweet. The
+                     black man. But its <hi rend="italics">kernel</hi> is all white, and sweet. The
                      apple, though it looks so pretty, has many little black grains at the
                      heart.</p>
                   <p>Now little boys and girls can't be abolitionists until they get rid of all
                      these black grains in their hearts. And they can't be good while they have such
-                     wicked eharts. Jesus will not love them who hate the poor negro, or hate
+                     wicked hearts. Jesus will not love them who hate the poor negro, or hate
                      God.</p>
                </sp>
             </div>
@@ -152,7 +152,7 @@
                </sp>
                <sp>
                   <speaker rend="italics">John.</speaker>
-                  <p>O that is the reason they are slaves; jsut because they are black. I do not
+                  <p>O that is the reason they are slaves; just because they are black. I do not
                      want all black boys to be slaves.</p>
                </sp>
                <sp>
@@ -184,7 +184,7 @@
                   <speaker rend="italics">Mother.</speaker>
                   <p>These three children lived with their father and mother, in Africa, about a
                      mile from the sea side. They were as free as the little birds whose voices they
-                     heard from the topmost boughs of cocoa treel they loved dearly to run in the
+                     heard from the topmost boughs of cocoa trees they loved dearly to run in the
                      woods, chase butterflies, gather wild flowers, and dress themselves with the
                      palm leafs. One day their mother sent them to get some yams, (like our
                      potatoes;) they took their baskets and went, little thinking they were to see
@@ -192,7 +192,7 @@
                      and said, "O sister, what is that?" She replied, "I do not know," for she had
                      never seen a white man before. The men showed them beads and other trinkets.
                      while the children were looking at them, these men-thieves came behind them and
-                     stuck plasters over tehir mouths. Then they caught them up and ran with them to
+                     stuck plasters over their mouths. Then they caught them up and ran with them to
                      the boat, that soon took them to the horrid slave ship.</p>
                </sp>
                <sp>
@@ -253,7 +253,7 @@
                      <l>Could I but read his sufferings sore,</l>
                      <l>Would make mine lighter than before:</l>
                      <l rend="indent">Yes, every sorrow I could brook,</l>
-                     <l rend="indent">By studying <ref target="#note">God Almighty's book!</ref></l>
+                     <l rend="indent">By studying <ref target="#note" xml:id:"s">God Almighty's book!</ref></l>
                   </lg>
                   <lg type="stanza" rhyme="iiijj">
                      <l>I'm told, this book so wise and good,</l>
@@ -321,7 +321,7 @@
                   </lg>
                   <lg type="stanza" rhyme="yzaz">
                      <l>"Christians, who's the God you worship?</l>
-                     <l>Is he cruel, fierce, or good?</l>
+                     <l rend="indent">Is he cruel, fierce, or good?</l>
                      <l>Does he take delight in mercy,</l>
                      <l rend="indent">Or in spilling human blood?</l>
                   </lg>
@@ -368,14 +368,14 @@
                </sp>
                <sp>
                   <speaker rend="italics">Mary.</speaker>
-                  <p>O, he is hte boy so many children gave their pennies to have set free. Isn't
+                  <p>O, he is the boy so many children gave their pennies to have set free. Isn't
                      he?</p>
                </sp>
                <sp>
                   <speaker rend="italics">Elizabeth.</speaker>
                   <p>Yes, Mary. He is free now, and at school in the country somewhere. Instead of
-                     being brought up like a beast, he will, I hope, be a good scholar, and pergaps
-                     a minsiter! An't you glad, sister Mary?</p>
+                     being brought up like a beast, he will, I hope, be a good scholar, and perhaps
+                     a minister! Ain't you glad, sister Mary?</p>
                </sp>
             </div>
             <div type="play" xml:id="Little_Dialogue">
@@ -482,7 +482,7 @@
                      <l rend="indent">The rustling of his wing.</l>
                      <l>I follow some wild river,</l>
                      <l rend="indent">On whose breast no sail may be;</l>
-                     <l>Dark woods aroudn it shiver—</l>
+                     <l>Dark woods around it shiver—</l>
                      <l rend="indent">I dream of all things free!</l>
                   </lg>
                   <lg type="stanza" rhyme="ijijklkl">
@@ -681,7 +681,7 @@
                   <l>Or run my heart through with a scythe,</l>
                   <l>And think it fun to see me writhe!</l>
                </lg>
-               <note>>NOTE. When the Bible would represent to us a person that is weak, mean, and
+               <note>>When the Bible would represent to us a person that is weak, mean, and
                   despised in the world, it compares him to a worm of the earth. </note>
             </div>
             <div type="poem" xml:id="To_A_Little_Child">
@@ -966,7 +966,7 @@
                      <l>And can the tales I have heard to be true,</l>
                      <l>Of the cruel things some masters do?</l>
                      <l>That the poor slaves often must creep to bed,</l>
-                     <l>On their scattered straw, but scantily fedl</l>
+                     <l>On their scattered straw, but scantily fed</l>
                      <l>Be sometimes loaded with heavy chains,</l>
                      <l>And flogged till their blood the keen lash stains;</l>
                      <l>While none will care for their bitter cry,</l>
@@ -1064,7 +1064,6 @@
                      <l>And when Mary’s glass is run,</l>
                      <l>When her work on earth is done,</l>
                      <l>Here a little ransomed band</l>
-                     <l>Shall before her joyful stand,</l>
                      <l>Shall before her joyful stand,</l>
                      <l>Welcome to a land of love,</l>
                      <l>To a “shelter” far above,</l>
