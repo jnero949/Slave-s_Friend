@@ -2,6 +2,7 @@ body {
     font-family:'Times New Roman', Times, serif;
     color:black;
     text-align: center;
+    padding: 17vw;
 }
 
 .toc {
@@ -73,9 +74,4 @@ body {
 .byline{
     font-family:'Times New Roman', Times, serif;
     font-size:14px
-}
-
-.div {
-  width: 300px;
-  margin: auto;
 }
